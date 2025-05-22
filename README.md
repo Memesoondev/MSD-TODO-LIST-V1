@@ -22,12 +22,6 @@ A **to-do list** is a simple but powerful tool to help you **stay organized, foc
      • Highlight key points
      • Review with flashcards
 
-3. **Review and Update Daily**
-   Look at your list every day.
-
-   * Add new tasks
-   * Remove or move old ones
-
 ---
 
 ### 📌 Tips:
